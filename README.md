@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Cinyan10**. I make plugins for CS:GO KZ (Kreedz) servers using SourcePawn, and I also enjoy building things with Python, which is my favorite programming language.
+I'm **Cinyan10**. I make plugins for CS:GO KZ servers using SourcePawn, and I also enjoy building things with Python, which is my favorite programming language.
 
 Most of my code comes from AI assistance, but I like experimenting with new ideas for server features, bots, or tools.
 
