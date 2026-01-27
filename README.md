@@ -1,3 +1,3 @@
 ### Cinyan10
 
-Vibe Coder
+Vibe Developer
