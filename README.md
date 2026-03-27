@@ -30,8 +30,8 @@
 
 <div align="center">
 
-  <!-- 🏆 Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=cinyan10&theme=radical&no-frame=true&row=1&column=6" />
+  <!-- ⏱️ WakaTime Stats -->
+  <img src="https://github-readme-stats-pink-alpha-49.vercel.app/api/wakatime?username=cinyan10&theme=radical" />
 
 </div>
 
