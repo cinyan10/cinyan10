@@ -28,10 +28,3 @@ Vibe Developer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinyan10&hide_border=true&area=false&days=180&theme=rogue" />
 
 </div> -->
-
-<div align="center">
-
-  <!-- 👀 Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=cinyan10&style=flat-square&color=blue" />
-
-</div>
