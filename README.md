@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- 🔥 Main Stats -->
-  <img height="165" src="https://github-readme-stats-pink-alpha-49.vercel.app/api?username=cinyan10&show_icons=true&count_private=true&include_all_commits=true&theme=radical&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats-pink-alpha-49.vercel.app/api?username=cinyan10&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&rank_icon=github" />
 
   <!-- 🧠 Top Languages -->
-  <img height="165" src="https://github-readme-stats-pink-alpha-49.vercel.app/api/top-langs/?username=cinyan10&layout=compact&langs_count=10&theme=radical" />
+  <img height="165" src="https://github-readme-stats-pink-alpha-49.vercel.app/api/top-langs/?username=cinyan10&layout=compact&langs_count=10&theme=dracula" />
 
 </div>
 
@@ -13,7 +13,7 @@
 <div align="center">
 
   <!-- 🔥 Streak -->
-  <img src="https://streak-stats.demolab.com?user=cinyan10&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=cinyan10&theme=dracula" />
 
 </div>
 
@@ -22,20 +22,9 @@
 <div align="center">
 
   <!-- 📈 Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinyan10&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinyan10&theme=dracula" />
 
 </div>
-
-<br/>
-
-<div align="center">
-
-  <!-- ⏱️ WakaTime Stats -->
-  <img src="https://github-readme-stats-pink-alpha-49.vercel.app/api/wakatime?username=cinyan10&theme=radical" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
