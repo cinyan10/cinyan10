@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 🔥 Main Stats -->
-  <img height="165" src="https://github-readme-stats-pink-alpha-49.vercel.app/api?username=cinyan10&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats-pink-alpha-49.vercel.app/api?username=cinyan10&show_icons=true&count_private=true&include_all_commits=true" />
 
   <!-- 🧠 Top Languages -->
   <img height="165" src="https://github-readme-stats-pink-alpha-49.vercel.app/api/top-langs/?username=cinyan10&layout=compact&langs_count=10" />
