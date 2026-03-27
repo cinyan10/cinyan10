@@ -23,11 +23,11 @@ Vibe Developer
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinyan10&hide_border=true&area=false&days=180&theme=rogue" />
 
-</div>
+</div> -->
 
 <div align="center">
 
