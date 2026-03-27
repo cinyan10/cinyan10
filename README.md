@@ -25,8 +25,7 @@ Vibe Developer
 
 <div align="center">
 
-  <!-- 📈 Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinyan10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinyan10&theme=radical&hide_border=true&area=true&point=ffffff&line=ff69b4" />
 
 </div>
 
